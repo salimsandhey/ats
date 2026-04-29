@@ -1,0 +1,3994 @@
+{
+  "implemented": [
+    {
+      "S.NO.": 1.0,
+      "Automated Testing Station (ATS)": "ESR INFRA SOLUTIONS",
+      "DISTRICT": "Konaseema",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9121000961.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 2.0,
+      "Automated Testing Station (ATS)": "CtrlAltFix Solutions Private Limited",
+      "DISTRICT": "Kakinada",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9845733344.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 3.0,
+      "Automated Testing Station (ATS)": "Royyal Agencies",
+      "DISTRICT": "Guntur",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 7382452367.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 4.0,
+      "Automated Testing Station (ATS)": "SAI RAMA ENTERPRISES",
+      "DISTRICT": "Y.S.R.",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 8977740151.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 5.0,
+      "Automated Testing Station (ATS)": "PRANEETH AUTHORISED TESTING CENTERS PRIVATE LIMITED",
+      "DISTRICT": "Sri Potti Sriramulu Nellore",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 8008465555.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 6.0,
+      "Automated Testing Station (ATS)": "M/S KAIZEN INSPEC TECH PVT LTD",
+      "DISTRICT": "NTR",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 7981358686.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 7.0,
+      "Automated Testing Station (ATS)": "SIVA SHANKAR ENTERPRISES",
+      "DISTRICT": "Nandyal",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9676506073.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 8.0,
+      "Automated Testing Station (ATS)": "ALGO ADVISORY",
+      "DISTRICT": "Krishna",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9491138030.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 9.0,
+      "Automated Testing Station (ATS)": "VAIDANTI SOLUTIONS PRIVATE LIMITED",
+      "DISTRICT": "Srikakulam",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9391849239.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 10.0,
+      "Automated Testing Station (ATS)": "OJAS IMPEX",
+      "DISTRICT": "Chittoor",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9063455843.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 11.0,
+      "Automated Testing Station (ATS)": "VAIDANTI SOLUTIONS PRIVATE LIMITED",
+      "DISTRICT": "Vizianagaram",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 7670988459.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 12.0,
+      "Automated Testing Station (ATS)": "SIVA SHANKAR ENTERPRISES",
+      "DISTRICT": "Sri Sathya Sai",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9100175122.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 13.0,
+      "Automated Testing Station (ATS)": "SIVA SHANKAR ENTERPRISES",
+      "DISTRICT": "Anantapur",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9440512333.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 14.0,
+      "Automated Testing Station (ATS)": "CtrlAltFIX Solutions Private Limited",
+      "DISTRICT": "East Godavari",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9866885877.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 15.0,
+      "Automated Testing Station (ATS)": "Rapid Insurance Marketing Pvt Ltd",
+      "DISTRICT": "Parvathipuram Manyam",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9573996363.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 16.0,
+      "Automated Testing Station (ATS)": "SAI RAMA ENTERPRISES",
+      "DISTRICT": "Annamayya",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 8977740152.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 17.0,
+      "Automated Testing Station (ATS)": "CtrlAltFIX Solutions Private Limited",
+      "DISTRICT": "Anakapalli",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9980945934.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 18.0,
+      "Automated Testing Station (ATS)": "Vasudha Industries",
+      "DISTRICT": "Kurnool",
+      "STATE": "Andhra Pradesh ",
+      "MOBILE NO.": 9063455842.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 19.0,
+      "Automated Testing Station (ATS)": "Iteuve India Private limited",
+      "DISTRICT": "Dibrugarh",
+      "STATE": "Assam",
+      "MOBILE NO.": 6001653764.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 20.0,
+      "Automated Testing Station (ATS)": "Iteuve India Private Limited",
+      "DISTRICT": "Bongaigaon",
+      "STATE": "Assam",
+      "MOBILE NO.": 9991095011.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Assam",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 21.0,
+      "Automated Testing Station (ATS)": "Clean Air Realtors Pvt Ltd",
+      "DISTRICT": "Kamrup",
+      "STATE": NaN,
+      "MOBILE NO.": 7728835726.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Assam",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 22.0,
+      "Automated Testing Station (ATS)": "Iteuve India Private Limited",
+      "DISTRICT": "Jorhat",
+      "STATE": NaN,
+      "MOBILE NO.": 7021989900.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Assam",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 23.0,
+      "Automated Testing Station (ATS)": "Iteuve India Private Limited",
+      "DISTRICT": "BISWANATH CHARIALI",
+      "STATE": NaN,
+      "MOBILE NO.": 9599173806.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Assam",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 24.0,
+      "Automated Testing Station (ATS)": "Sandhya",
+      "DISTRICT": "Barpeta",
+      "STATE": NaN,
+      "MOBILE NO.": 9880067069.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Inactive",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Assam",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 25.0,
+      "Automated Testing Station (ATS)": "rajneet kumar",
+      "DISTRICT": "Purnia",
+      "STATE": "Bihar",
+      "MOBILE NO.": 9155000040.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 26.0,
+      "Automated Testing Station (ATS)": "TRADEWEL INDIA SALES PVT LTD",
+      "DISTRICT": "Vaishali",
+      "STATE": "Bihar",
+      "MOBILE NO.": 9334101859.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 27.0,
+      "Automated Testing Station (ATS)": "ASHOK KASHYAP",
+      "DISTRICT": "Patna",
+      "STATE": "Bihar",
+      "MOBILE NO.": 9939791029.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Inactive",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 28.0,
+      "Automated Testing Station (ATS)": "SANJEEV KUMAR NIRALA",
+      "DISTRICT": "Nalanda",
+      "STATE": "Bihar",
+      "MOBILE NO.": 9135367928.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 29.0,
+      "Automated Testing Station (ATS)": "Kalahanu Bothra Industries Private Limited",
+      "DISTRICT": "Patna",
+      "STATE": "Bihar",
+      "MOBILE NO.": 7763800000.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 30.0,
+      "Automated Testing Station (ATS)": "Vaishnavi Automated Fitness Centre",
+      "DISTRICT": "Patna",
+      "STATE": "Bihar",
+      "MOBILE NO.": 8986185120.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 31.0,
+      "Automated Testing Station (ATS)": "JAVED ALAM",
+      "DISTRICT": "Rohtas",
+      "STATE": "Bihar",
+      "MOBILE NO.": 9162326666.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 32.0,
+      "Automated Testing Station (ATS)": "M/S B.K CONSTRUCTION & CO",
+      "DISTRICT": "Bhagalpur",
+      "STATE": "Bihar",
+      "MOBILE NO.": 7004424825.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Suspended",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 33.0,
+      "Automated Testing Station (ATS)": "GOLDEN VAHAN FITNESS CENTRE",
+      "DISTRICT": "Patna",
+      "STATE": "Bihar",
+      "MOBILE NO.": 8521555855.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Suspended",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 34.0,
+      "Automated Testing Station (ATS)": "M/S RAVIRANJAN KUMAR RAJA",
+      "DISTRICT": "Darbhanga",
+      "STATE": "Bihar",
+      "MOBILE NO.": 9199665481.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Suspended",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 35.0,
+      "Automated Testing Station (ATS)": "Durg Automated Fitness Centre",
+      "DISTRICT": "Durg",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425412.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 36.0,
+      "Automated Testing Station (ATS)": "Jagdalpur Automated Fitness Centre",
+      "DISTRICT": "Bastar",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425416.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 37.0,
+      "Automated Testing Station (ATS)": "Bilaspur Automated Fitness Centre",
+      "DISTRICT": "Bilaspur",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425411.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 38.0,
+      "Automated Testing Station (ATS)": "Raigarh Automated Fitness Centre",
+      "DISTRICT": "Raigarh",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425415.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 39.0,
+      "Automated Testing Station (ATS)": "Raipur Automated Fitness Centre",
+      "DISTRICT": "Raipur",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425410.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 40.0,
+      "Automated Testing Station (ATS)": "Korba Automated Fitness Centre",
+      "DISTRICT": "Korba",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425414.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 41.0,
+      "Automated Testing Station (ATS)": "Ambikapur Automated Fitness Centre",
+      "DISTRICT": "Surguja",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425417.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 42.0,
+      "Automated Testing Station (ATS)": "Rajnandgaon Automated Fitness Centre",
+      "DISTRICT": "Rajnandgaon",
+      "STATE": "Chhattisgarh",
+      "MOBILE NO.": 9752425413.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 43.0,
+      "Automated Testing Station (ATS)": "Transport Department Delhi",
+      "DISTRICT": "South West",
+      "STATE": "Delhi",
+      "MOBILE NO.": 9811320032.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 44.0,
+      "Automated Testing Station (ATS)": "M D MOTORS",
+      "DISTRICT": "Kachchh",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9227981019.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 45.0,
+      "Automated Testing Station (ATS)": "M/S. MJ ENTERPRISE",
+      "DISTRICT": "Panchmahal",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9537827111.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 46.0,
+      "Automated Testing Station (ATS)": "BND TECHNOLOGIES PRIVATE LIMITED",
+      "DISTRICT": "Rajkot",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9558399239.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 47.0,
+      "Automated Testing Station (ATS)": "Auto Ingenious LLP",
+      "DISTRICT": "Ahmedabad",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9173935411.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 48.0,
+      "Automated Testing Station (ATS)": "M J Enterprise",
+      "DISTRICT": "Devbhumi Dwarka",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 7016103362.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 49.0,
+      "Automated Testing Station (ATS)": "FTA HSRP SOLUTIONS PRIVATE LIMITED",
+      "DISTRICT": "Rajkot",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 7043985518.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 50.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Valsad",
+      "STATE": NaN,
+      "MOBILE NO.": 6359048015.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 51.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Mehsana",
+      "STATE": NaN,
+      "MOBILE NO.": 9157426298.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 52.0,
+      "Automated Testing Station (ATS)": "Vision Autotests Pvt. Ltd.",
+      "DISTRICT": "Surendranagar",
+      "STATE": NaN,
+      "MOBILE NO.": 7436000003.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 53.0,
+      "Automated Testing Station (ATS)": "VISION AUTOTESTS PRIVATE LIMITED",
+      "DISTRICT": "Rajkot",
+      "STATE": NaN,
+      "MOBILE NO.": 9974695758.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 54.0,
+      "Automated Testing Station (ATS)": "M J ENTERPRISE",
+      "DISTRICT": "Jamnagar",
+      "STATE": NaN,
+      "MOBILE NO.": 7778810777.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 55.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Bharuch",
+      "STATE": NaN,
+      "MOBILE NO.": 9157426299.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 56.0,
+      "Automated Testing Station (ATS)": "Neptune Foam",
+      "DISTRICT": "Ahmedabad",
+      "STATE": NaN,
+      "MOBILE NO.": 9316077424.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 57.0,
+      "Automated Testing Station (ATS)": "OM PRAKASH AGARWAL",
+      "DISTRICT": "Surat",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9414036769.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 58.0,
+      "Automated Testing Station (ATS)": "VISION AUTOTESTS PRIVATE LIMITED",
+      "DISTRICT": "Ahmedabad",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 7096007079.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 59.0,
+      "Automated Testing Station (ATS)": "SHREEJI THE CAKE SHOP",
+      "DISTRICT": "Bhavnagar",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9909989999.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 60.0,
+      "Automated Testing Station (ATS)": "Vision Autotests Pvt. Ltd.",
+      "DISTRICT": "MORBI",
+      "STATE": NaN,
+      "MOBILE NO.": 7623000007.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 61.0,
+      "Automated Testing Station (ATS)": "M D MOTORS",
+      "DISTRICT": "Rajkot",
+      "STATE": NaN,
+      "MOBILE NO.": 9875163109.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 62.0,
+      "Automated Testing Station (ATS)": "M D MOTORS",
+      "DISTRICT": "Vadodara",
+      "STATE": NaN,
+      "MOBILE NO.": 9875163106.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Suspended",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 63.0,
+      "Automated Testing Station (ATS)": "YOGESH KANTILAL THACKER",
+      "DISTRICT": "MORBI",
+      "STATE": NaN,
+      "MOBILE NO.": 9081577738.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 64.0,
+      "Automated Testing Station (ATS)": "YOGESH KANTILAL THACKER",
+      "DISTRICT": "Kachchh",
+      "STATE": NaN,
+      "MOBILE NO.": 9925151733.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 65.0,
+      "Automated Testing Station (ATS)": "M H KHANUSIYA",
+      "DISTRICT": "Sabarkantha",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9825077038.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 66.0,
+      "Automated Testing Station (ATS)": "OM AUTO FITNESS",
+      "DISTRICT": "Gandhinagar",
+      "STATE": NaN,
+      "MOBILE NO.": 9913543431.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 67.0,
+      "Automated Testing Station (ATS)": "PATIDAR TRAVELS PRIVATE LIMITED",
+      "DISTRICT": "Vadodara",
+      "STATE": NaN,
+      "MOBILE NO.": 9904301323.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 68.0,
+      "Automated Testing Station (ATS)": "FTA HSRP SOLUTIONS PRIVATE LIMITED",
+      "DISTRICT": "Kachchh",
+      "STATE": NaN,
+      "MOBILE NO.": 9687641455.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 69.0,
+      "Automated Testing Station (ATS)": "Yogendra Kumar Soni",
+      "DISTRICT": "Ahmedabad",
+      "STATE": NaN,
+      "MOBILE NO.": 9414080166.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 70.0,
+      "Automated Testing Station (ATS)": "S.S.STONES",
+      "DISTRICT": "Gandhinagar",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9414313510.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 71.0,
+      "Automated Testing Station (ATS)": "SEEZA TRADING CO.",
+      "DISTRICT": "Ahmedabad",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9104900689.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 72.0,
+      "Automated Testing Station (ATS)": "THE WESTERN INDIA AUTOMOBILE ASSOCIATION",
+      "DISTRICT": "Kachchh",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 8655833602.0,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": 73.0,
+      "Automated Testing Station (ATS)": "RAAJIK DIAMONDS-VIP AUTOMATED VEHICLE FITNESS TESTING CENTER",
+      "DISTRICT": "Surat",
+      "STATE": NaN,
+      "MOBILE NO.": 9925285185.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 74.0,
+      "Automated Testing Station (ATS)": "BHIKHABHAI KHODABHAI PATEL",
+      "DISTRICT": "Mehsana",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9712689898.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 75.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Surat",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9157326299.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 76.0,
+      "Automated Testing Station (ATS)": "M D MOTORS",
+      "DISTRICT": "Kachchh",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9875163119.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 77.0,
+      "Automated Testing Station (ATS)": "YOGENDRA KUMAR SONI",
+      "DISTRICT": "Bharuch",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9898680166.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 78.0,
+      "Automated Testing Station (ATS)": "S.S. STONES",
+      "DISTRICT": "Kachchh",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9001472597.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 79.0,
+      "Automated Testing Station (ATS)": "MUKESHKUMAR PREMCHAND LALWANI",
+      "DISTRICT": "Navsari",
+      "STATE": NaN,
+      "MOBILE NO.": 9825509900.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 80.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Surat",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9825376416.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 81.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Vadodara",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9157681939.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 82.0,
+      "Automated Testing Station (ATS)": "M D MOTORS",
+      "DISTRICT": "Ahmedabad",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9875163105.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 83.0,
+      "Automated Testing Station (ATS)": "M D MOTORS",
+      "DISTRICT": "Valsad",
+      "STATE": NaN,
+      "MOBILE NO.": 9875163126.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 84.0,
+      "Automated Testing Station (ATS)": "PURUSARTH AUTO",
+      "DISTRICT": "MORBI",
+      "STATE": NaN,
+      "MOBILE NO.": 9624700001.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 85.0,
+      "Automated Testing Station (ATS)": "BND TECHNOLOGIES PRIVATE LIMITED",
+      "DISTRICT": "Surat",
+      "STATE": NaN,
+      "MOBILE NO.": 8460918432.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 86.0,
+      "Automated Testing Station (ATS)": "AVTARSINGH MAHENDRASINGH RAMGADIA",
+      "DISTRICT": "Vadodara",
+      "STATE": NaN,
+      "MOBILE NO.": 9979105555.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 87.0,
+      "Automated Testing Station (ATS)": "FTA HSRP SOLUTIONS PRIVATE LIMITED",
+      "DISTRICT": "Bharuch",
+      "STATE": NaN,
+      "MOBILE NO.": 9824188290.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 88.0,
+      "Automated Testing Station (ATS)": "Vision Autotests Pvt. Ltd.",
+      "DISTRICT": "Rajkot",
+      "STATE": NaN,
+      "MOBILE NO.": 9898744955.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 89.0,
+      "Automated Testing Station (ATS)": "PATIDAR TRAVELS PRIVATE LIMITED",
+      "DISTRICT": "Gandhinagar",
+      "STATE": NaN,
+      "MOBILE NO.": 8799458886.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 90.0,
+      "Automated Testing Station (ATS)": "ROYAL AUTOMATIVE INDUSTRIES",
+      "DISTRICT": "Navsari",
+      "STATE": NaN,
+      "MOBILE NO.": 9898603975.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 91.0,
+      "Automated Testing Station (ATS)": "PURUSARTH AUTO",
+      "DISTRICT": "Rajkot",
+      "STATE": NaN,
+      "MOBILE NO.": 9925090909.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 92.0,
+      "Automated Testing Station (ATS)": "Neptune Foam",
+      "DISTRICT": "Ahmedabad",
+      "STATE": NaN,
+      "MOBILE NO.": 9426300624.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 93.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Surat",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9558913940.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 94.0,
+      "Automated Testing Station (ATS)": "BND TECHNOLOGIES PRIVATE LIMITED",
+      "DISTRICT": "Kachchh",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 8511715939.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Cancelled",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 95.0,
+      "Automated Testing Station (ATS)": "BND ENERGY PRIVATE LIMITED",
+      "DISTRICT": "Amreli",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9157526299.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 96.0,
+      "Automated Testing Station (ATS)": "NAMAN ELECTRONICS",
+      "DISTRICT": "Mehsana",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9898146824.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Cancelled",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 97.0,
+      "Automated Testing Station (ATS)": "BND TECHNOLOGIES PRIVATE LIMITED",
+      "DISTRICT": "Navsari",
+      "STATE": NaN,
+      "MOBILE NO.": 9725816299.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Cancelled",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 98.0,
+      "Automated Testing Station (ATS)": "VISION AUTOTESTS PRIVATE LIMITED",
+      "DISTRICT": "Junagadh",
+      "STATE": NaN,
+      "MOBILE NO.": 9913839990.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 99.0,
+      "Automated Testing Station (ATS)": "FTA HSRP SOLUTIONS PRIVATE LIMITED",
+      "DISTRICT": "Valsad",
+      "STATE": NaN,
+      "MOBILE NO.": 9687641482.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Gujarat",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 100.0,
+      "Automated Testing Station (ATS)": "GHV INDIA PVT LTD",
+      "DISTRICT": "Banaskantha",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 9925077430.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 101.0,
+      "Automated Testing Station (ATS)": "M J ENTERPRISE",
+      "DISTRICT": "Vadodara",
+      "STATE": "Gujarat",
+      "MOBILE NO.": 8780249976.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 102.0,
+      "Automated Testing Station (ATS)": "SANJAY PASSI",
+      "DISTRICT": "Gurgaon",
+      "STATE": "Haryana",
+      "MOBILE NO.": 8800597004.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 103.0,
+      "Automated Testing Station (ATS)": "Mazedan Autodynamics Private Limited",
+      "DISTRICT": "Sirmaur",
+      "STATE": "Himachal Pradesh",
+      "MOBILE NO.": 9411129000.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 104.0,
+      "Automated Testing Station (ATS)": "VIKRAM HP CENTRE",
+      "DISTRICT": "Mandi",
+      "STATE": "Himachal Pradesh",
+      "MOBILE NO.": 9816003721.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 105.0,
+      "Automated Testing Station (ATS)": "ANISH MINHAS",
+      "DISTRICT": "Bilaspur",
+      "STATE": "Himachal Pradesh",
+      "MOBILE NO.": 9817171004.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Himachal Pradesh",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 106.0,
+      "Automated Testing Station (ATS)": "SWARAN SINGH",
+      "DISTRICT": "Solan",
+      "STATE": NaN,
+      "MOBILE NO.": 9418041051.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Himachal Pradesh",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 107.0,
+      "Automated Testing Station (ATS)": "SULEMAN ANSARI",
+      "DISTRICT": "Kangra",
+      "STATE": "Himachal Pradesh",
+      "MOBILE NO.": 9816262455.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 108.0,
+      "Automated Testing Station (ATS)": "REVANT INTEGRATED SERVICES",
+      "DISTRICT": "Jammu",
+      "STATE": "Jammu kashmir",
+      "MOBILE NO.": 7006809966.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 109.0,
+      "Automated Testing Station (ATS)": "VAHAN TRUCK DRIVING SCHOOL RANCHI",
+      "DISTRICT": "Ranchi",
+      "STATE": "Jharkhand",
+      "MOBILE NO.": 8709891660.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 110.0,
+      "Automated Testing Station (ATS)": "Universal Automated Fitness Centre",
+      "DISTRICT": "Purbi Singhbhum",
+      "STATE": "Jharkhand",
+      "MOBILE NO.": 9835921551.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 111.0,
+      "Automated Testing Station (ATS)": "Auto Tech Vehicle Fitness",
+      "DISTRICT": "Ranchi",
+      "STATE": "Jharkhand",
+      "MOBILE NO.": 9431115020.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 112.0,
+      "Automated Testing Station (ATS)": "GLOBAL AUTOMATED FITNESS CENTRE",
+      "DISTRICT": "Hazaribagh",
+      "STATE": "Jharkhand",
+      "MOBILE NO.": 9955376629.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 113.0,
+      "Automated Testing Station (ATS)": "Auto Fitness Centre",
+      "DISTRICT": "Ranchi",
+      "STATE": "Jharkhand",
+      "MOBILE NO.": 8292922226.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 114.0,
+      "Automated Testing Station (ATS)": "Thaliparambu",
+      "DISTRICT": "Kannur",
+      "STATE": "Kerala",
+      "MOBILE NO.": 8547639013.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 115.0,
+      "Automated Testing Station (ATS)": "Kasargod",
+      "DISTRICT": "Kasaragod",
+      "STATE": "Kerala",
+      "MOBILE NO.": 8547639014.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 116.0,
+      "Automated Testing Station (ATS)": "Uzhavoor",
+      "DISTRICT": "Kottayam",
+      "STATE": "Kerala",
+      "MOBILE NO.": 8547639005.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 117.0,
+      "Automated Testing Station (ATS)": "Muttathara",
+      "DISTRICT": "Thiruvananthapuram",
+      "STATE": "Kerala",
+      "MOBILE NO.": 8547639001.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": 118.0,
+      "Automated Testing Station (ATS)": "Regional Transport Officer Ladakh",
+      "DISTRICT": "Leh(Ladakh)",
+      "STATE": "Ladak",
+      "MOBILE NO.": 6005907578.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 119.0,
+      "Automated Testing Station (ATS)": "AURA FITNESS CENTRE",
+      "DISTRICT": "Indore",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9303274095.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Non-Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 120.0,
+      "Automated Testing Station (ATS)": "R SHARMA ENTERPRISES",
+      "DISTRICT": "Ujjain",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9752357555.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 121.0,
+      "Automated Testing Station (ATS)": "ARYAN MOTORS",
+      "DISTRICT": "Singrauli",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9981392045.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 122.0,
+      "Automated Testing Station (ATS)": "APPU NOVEL SERVICE",
+      "DISTRICT": "Dewas",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9981466510.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 123.0,
+      "Automated Testing Station (ATS)": "SINGH GOLDEN TRANSPORT CO",
+      "DISTRICT": "Indore",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9009814000.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 124.0,
+      "Automated Testing Station (ATS)": "Appu Novel Services",
+      "DISTRICT": "Indore",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 8109602510.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 125.0,
+      "Automated Testing Station (ATS)": "Manali Industries",
+      "DISTRICT": "Jabalpur",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 7427066005.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 126.0,
+      "Automated Testing Station (ATS)": "VAIDANTI VEHICLE FITNESS SPV",
+      "DISTRICT": "Gwalior",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9238290967.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Suspended",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 127.0,
+      "Automated Testing Station (ATS)": "S.S.STONES",
+      "DISTRICT": "Ujjain",
+      "STATE": NaN,
+      "MOBILE NO.": 9993982510.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 128.0,
+      "Automated Testing Station (ATS)": "VAIDANTI VEHICLE FITNESS SPV",
+      "DISTRICT": "Bhopal",
+      "STATE": NaN,
+      "MOBILE NO.": 9201795554.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 129.0,
+      "Automated Testing Station (ATS)": "Shri Ram Kalyan Buildcon",
+      "DISTRICT": "Satna",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 7339944054.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 130.0,
+      "Automated Testing Station (ATS)": "RUDRA ENTERPRISES",
+      "DISTRICT": "Singrauli",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9977304144.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 131.0,
+      "Automated Testing Station (ATS)": "DEEHER TRANSPORT",
+      "DISTRICT": "Bhopal",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9772792269.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 132.0,
+      "Automated Testing Station (ATS)": "SSNB NEXCHECK PRIVATE LIMITED",
+      "DISTRICT": "Bhopal",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 8461077118.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 133.0,
+      "Automated Testing Station (ATS)": "Manali Industries",
+      "DISTRICT": "Gwalior",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9571623111.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 134.0,
+      "Automated Testing Station (ATS)": "VAIDANTI VEHICLE FITNESS SPV",
+      "DISTRICT": "Indore",
+      "STATE": NaN,
+      "MOBILE NO.": 8458982027.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 135.0,
+      "Automated Testing Station (ATS)": "ADINATH FITNESS LLP - DHAR",
+      "DISTRICT": "Dhar",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 7737398335.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 136.0,
+      "Automated Testing Station (ATS)": "MAHAKAL ENTERPRISES",
+      "DISTRICT": "Indore",
+      "STATE": "Madhya Pradesh",
+      "MOBILE NO.": 9829790769.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 137.0,
+      "Automated Testing Station (ATS)": "Regional Transport Office, Chhatrapati Sambhaji Nagar",
+      "DISTRICT": "Chhatrapati Sambhaji Nagar",
+      "STATE": "Maharashtra",
+      "MOBILE NO.": 8655508928.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 138.0,
+      "Automated Testing Station (ATS)": "NK VEHICLE FITNESS CENTER",
+      "DISTRICT": "Chhatrapati Sambhaji Nagar",
+      "STATE": "Maharashtra",
+      "MOBILE NO.": 9922886714.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 139.0,
+      "Automated Testing Station (ATS)": "REGIONAL TRANSPORT OFFICE NASHIK",
+      "DISTRICT": "Nashik",
+      "STATE": "Maharashtra",
+      "MOBILE NO.": 9910037555.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 140.0,
+      "Automated Testing Station (ATS)": "Malegaon ATS Centre",
+      "DISTRICT": "Nashik",
+      "STATE": "Maharashtra",
+      "MOBILE NO.": 7720010230.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 141.0,
+      "Automated Testing Station (ATS)": "ATS RTO CUTTACK",
+      "DISTRICT": "Cuttack",
+      "STATE": "Orissa",
+      "MOBILE NO.": 9237378575.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 142.0,
+      "Automated Testing Station (ATS)": "MARUDHARA VAHAN FITNESS CENTER",
+      "DISTRICT": "Ajmer",
+      "STATE": "Rajasthan",
+      "MOBILE NO.": 9257177707.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Suspended",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 143.0,
+      "Automated Testing Station (ATS)": "P. Square Technology LLP",
+      "DISTRICT": "Jaipur",
+      "STATE": "Rajasthan",
+      "MOBILE NO.": 8949904220.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 144.0,
+      "Automated Testing Station (ATS)": "M D MOTORS",
+      "DISTRICT": "Dadra & Nagar Haveli",
+      "STATE": "Dadra & Nagar Haveli",
+      "MOBILE NO.": 9875163125.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 145.0,
+      "Automated Testing Station (ATS)": "PHOENIX AUTOMOBILES TESTING BAREILLY PRIVATE LIMITED",
+      "DISTRICT": "Bareilly",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9415276476.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 146.0,
+      "Automated Testing Station (ATS)": "A V CONSTRUCTION",
+      "DISTRICT": "Etah",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9520677498.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 147.0,
+      "Automated Testing Station (ATS)": "PRANAMROADGURU AUTO FITNESS PRIVATE LIMITED",
+      "DISTRICT": "Gautam Buddha Nagar",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 7985441726.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 148.0,
+      "Automated Testing Station (ATS)": "INDU SINGH",
+      "DISTRICT": "Sonbhadra",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9458055150.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 149.0,
+      "Automated Testing Station (ATS)": "AKRS ATS PRIVATE LIMITED",
+      "DISTRICT": "Lucknow",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 7510003201.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 150.0,
+      "Automated Testing Station (ATS)": "TEJENDRA CARTING",
+      "DISTRICT": "Etawah",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9327490175.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 151.0,
+      "Automated Testing Station (ATS)": "J.T.N.SERVICES PRIVATE LIMITED",
+      "DISTRICT": "Kanpur Dehat",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 7522003700.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 152.0,
+      "Automated Testing Station (ATS)": "MAMTA HYGIENE PRODUCTS PRIVATE LIMITED",
+      "DISTRICT": "Mirzapur",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 8299021360.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 153.0,
+      "Automated Testing Station (ATS)": "ARCHANA GUPTA",
+      "DISTRICT": "Jalaun",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9580925480.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 154.0,
+      "Automated Testing Station (ATS)": "RSLATS RAMPUR PRIVATE LIMITED",
+      "DISTRICT": "Rampur",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 7906555630.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 155.0,
+      "Automated Testing Station (ATS)": "REGIONAL TRANSPORT OFFICER LUCKNOW",
+      "DISTRICT": "Lucknow",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 8005441020.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 156.0,
+      "Automated Testing Station (ATS)": "MURARI LAL GOYAL",
+      "DISTRICT": "Firozabad",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 7014624193.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 157.0,
+      "Automated Testing Station (ATS)": "SHREE FITNESS CENTRE",
+      "DISTRICT": "Ghaziabad",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9314397200.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 158.0,
+      "Automated Testing Station (ATS)": "KEYGOLD DRIVING COLLEGE AND FITNESS CENTER PVT LTD",
+      "DISTRICT": "Gautam Buddha Nagar",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9099967348.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 159.0,
+      "Automated Testing Station (ATS)": "KOHLI RSHC ATS PRIVATE LIMITED",
+      "DISTRICT": "Moradabad",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9528799340.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 160.0,
+      "Automated Testing Station (ATS)": "AASHVI INFRAZONE ATS PRIVATE LIMITED",
+      "DISTRICT": "Varanasi",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9151333458.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 161.0,
+      "Automated Testing Station (ATS)": "KAWATRA INDUSTRIAL GAS CO",
+      "DISTRICT": "Moradabad",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9412240340.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 162.0,
+      "Automated Testing Station (ATS)": "TRIPLESHARP AUTO FITNESS PRIVATE LIMITED",
+      "DISTRICT": "Agra",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9580031664.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 163.0,
+      "Automated Testing Station (ATS)": "AIR SALES CORPORATION",
+      "DISTRICT": "Kanpur Nagar",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9650507392.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 164.0,
+      "Automated Testing Station (ATS)": "HARI CARGO CARRIER ATS DIVISION",
+      "DISTRICT": "Unnao",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9897326072.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 165.0,
+      "Automated Testing Station (ATS)": "GOPAL KRISHNA GUPTA",
+      "DISTRICT": "Fatehpur",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 7007050970.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 166.0,
+      "Automated Testing Station (ATS)": "MAHFOOZ AHMED",
+      "DISTRICT": "Bijnor",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9012965329.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 167.0,
+      "Automated Testing Station (ATS)": "Narayani Technologies",
+      "DISTRICT": "Jhansi",
+      "STATE": "Uttar Pradesh",
+      "MOBILE NO.": 9300996106.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 168.0,
+      "Automated Testing Station (ATS)": "PRANAM BUILDERS PRIVATE LIMITED",
+      "DISTRICT": "Udham Singh Nagar",
+      "STATE": "Uttarakhand",
+      "MOBILE NO.": 7271838816.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 169.0,
+      "Automated Testing Station (ATS)": "Pranam Auto Fitness Private Limited",
+      "DISTRICT": "Hardwar",
+      "STATE": "Uttarakhand",
+      "MOBILE NO.": 8218637922.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 170.0,
+      "Automated Testing Station (ATS)": "R S LOGISTICS",
+      "DISTRICT": "Dehradun",
+      "STATE": "Uttarakhand",
+      "MOBILE NO.": 9639546000.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 171.0,
+      "Automated Testing Station (ATS)": "R S LOGISTICS",
+      "DISTRICT": "Champawat",
+      "STATE": "Uttarakhand",
+      "MOBILE NO.": 9084659708.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 172.0,
+      "Automated Testing Station (ATS)": "PRANAM AUTO FITNESS PRIVATE LIMITED",
+      "DISTRICT": "Nainital",
+      "STATE": "Uttarakhand",
+      "MOBILE NO.": 8400083385.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 173.0,
+      "Automated Testing Station (ATS)": "Star Saidham Services Solutions",
+      "DISTRICT": "Dehradun",
+      "STATE": "Uttarakhand",
+      "MOBILE NO.": 9811806855.0,
+      "FACILITY": "2W",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "3W / LMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    },
+    {
+      "S.NO.": 174.0,
+      "Automated Testing Station (ATS)": "R S L0GISTICS",
+      "DISTRICT": "Hardwar",
+      "STATE": "Uttarakhand",
+      "MOBILE NO.": 9557542541.0,
+      "FACILITY": "3W / LMV",
+      "ATS Status": "\u00a0Active",
+      "ATS Operational Status": "\u00a0Operational"
+    },
+    {
+      "S.NO.": NaN,
+      "Automated Testing Station (ATS)": NaN,
+      "DISTRICT": NaN,
+      "STATE": NaN,
+      "MOBILE NO.": NaN,
+      "FACILITY": "HMV / MMV",
+      "ATS Status": NaN,
+      "ATS Operational Status": NaN
+    }
+  ],
+  "under_development": [
+    {
+      "Sno": 1,
+      "State ": "Madhya Pradesh ",
+      "Outlet": "Aryan Motors ",
+      "City": "Singholi",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 2,
+      "State ": "Madhya Pradesh ",
+      "Outlet": "Rudra Enterprice",
+      "City": "Singholi",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 3,
+      "State ": "Madhya Pradesh ",
+      "Outlet": "Kanika Enterprice",
+      "City": "Jabalpur",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 4,
+      "State ": "Madhya Pradesh ",
+      "Outlet": "NK Vehicle Fitness Centre ",
+      "City": "Chh.Sambhaji Nagar",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 5,
+      "State ": "Uttar Pradesh",
+      "Outlet": "Hari Cargo ",
+      "City": "Unnao",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 6,
+      "State ": "Uttar Pradesh",
+      "Outlet": "Tusar Packeging ",
+      "City": "Hathras",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 7,
+      "State ": "Uttar Pradesh",
+      "Outlet": "Raj Coroporation",
+      "City": "Manipur ",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 8,
+      "State ": "Uttar Pradesh",
+      "Outlet": "Egal",
+      "City": "Ayoudha",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 9,
+      "State ": "Uttar Pradesh",
+      "Outlet": "Gaytri Enterprice ",
+      "City": "Firozpur",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 10,
+      "State ": "Uttar Pradesh",
+      "Outlet": "Shrisiti Manpower",
+      "City": "Azamgardh ",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 11,
+      "State ": "Uttar Pradesh",
+      "Outlet": "Exprection of India",
+      "City": "Moradabad",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 12,
+      "State ": "Haryana",
+      "Outlet": "Petoar Motors ",
+      "City": "Hisar",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 13,
+      "State ": "Haryana",
+      "Outlet": "Radha swami ",
+      "City": "Sonipat ",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 14,
+      "State ": "Himchal Pradesh ",
+      "Outlet": "VIKRAM HP CENTRE",
+      "City": "Mandi",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 15,
+      "State ": "Bihar",
+      "Outlet": "kalahanu bothra",
+      "City": "Patna",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 16,
+      "State ": "Bihar",
+      "Outlet": "Saumya Traders",
+      "City": "Bihar Shafit",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 17,
+      "State ": "Bihar",
+      "Outlet": "Tradewel India",
+      "City": "hajipur ",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 18,
+      "State ": "Bihar",
+      "Outlet": "Fancy Store ",
+      "City": "Rohtan ",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 19,
+      "State ": "Bihar",
+      "Outlet": NaN,
+      "City": NaN,
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 20,
+      "State ": "Bihar",
+      "Outlet": NaN,
+      "City": NaN,
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 21,
+      "State ": "Jharkand ",
+      "Outlet": "Auto Tech",
+      "City": "Ranchi",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 22,
+      "State ": "Andhra Pradesh ",
+      "Outlet": "Royal Agencien ",
+      "City": "Guntur",
+      "Status": "(OP)"
+    },
+    {
+      "Sno": 23,
+      "State ": "New Delhi ",
+      "Outlet": "DTC ",
+      "City": "Nand Nagri",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 24,
+      "State ": "Chhattisgarh",
+      "Outlet": "People Development society ",
+      "City": "Vishwanath Pali",
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 25,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 26,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 27,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 28,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 29,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 30,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 31,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 32,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 33,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    },
+    {
+      "Sno": 34,
+      "State ": "Odisha",
+      "Outlet": "Csritech Pvt.Ltd",
+      "City": NaN,
+      "Status": "Development in progress"
+    }
+  ]
+}
