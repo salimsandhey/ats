@@ -90,7 +90,7 @@ export const PrivacyPolicy = () => (
     <section className="space-y-4">
       <h2 className="text-2xl font-black text-black">9. Contact Us</h2>
       <div className="bg-brand-accent p-8 rounded-3xl space-y-2">
-        <p><strong>Email:</strong> contact@e-vahan.com</p>
+        <p><strong>Email:</strong> info@atsindia.org</p>
         <p><strong>Phone:</strong> +91 98559 55959, +91 172 462 5959</p>
         <p><strong>Address:</strong> G-04, Ground Floor, D-141, Industrial Area, Phase 7, Sector 73, S.A.S. Nagar, Mohali-160055 (Punjab) INDIA</p>
       </div>
@@ -224,7 +224,7 @@ export const ShippingRefundPolicy = () => (
     <section className="space-y-4">
       <h2 className="text-2xl font-black text-black">7. Contact for Support</h2>
       <div className="bg-brand-accent p-8 rounded-3xl space-y-2">
-        <p><strong>Email:</strong> contact@e-vahan.com</p>
+        <p><strong>Email:</strong> info@atsindia.org</p>
         <p><strong>Phone:</strong> +91 98559 55959, +91 172 462 5959</p>
       </div>
     </section>
