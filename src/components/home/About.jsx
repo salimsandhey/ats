@@ -12,7 +12,7 @@ export default function About() {
             </svg>
             About ATS
           </div>
-          <h2 className="text-4xl md:text-5xl font-extrabold leading-tight text-brand-primary">Automated Testing System (ATS)</h2>
+          <h2 className="text-4xl md:text-5xl font-extrabold leading-tight text-brand-primary">Automatic Testing Station (ATS)</h2>
           <p className="text-lg leading-relaxed text-black/70 font-medium">
             India's ATS is revolutionising vehicle fitness checks — replacing manual inspections with automated technology that certifies vehicles in under 10 minutes with near-100% accuracy, fully integrated with the VAHAN portal.
           </p>
